@@ -17,7 +17,7 @@ function Test1MultiPageProblem() {
     document.body.appendChild(newDiv);
 
     // Test 
-    console.log(" Test1MultiPageProblem ");
+    console.log(" Hi from : Test1-MultiPageProblem ");
 }
 
 export default Test1MultiPageProblem
@@ -32,13 +32,13 @@ export default Test1MultiPageProblem
 //////////////////////// NO
 // Test1MultiPageProblem()
 // Function calls are working all check. 
-
+/////////////////// yes
 
 
 //////////////////////// NO
 // Test1MultiPageProblem()
 // Updating speed check All working. 
-
+//////////////////// yes
 
 ////////////////////////////////////////////////
 
