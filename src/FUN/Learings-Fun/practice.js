@@ -1,8 +1,11 @@
 import {Bridge, square, circle, triangle} from './Legos/big-blocks/Bridge'
 
 
+
+
 // Create , Add attributes , Append Div.
 export function practice() {
+
      // Create the element
     const newDiv = document.createElement('div');
     console.log(Bridge);
@@ -17,6 +20,7 @@ export function practice() {
     newDiv.innerHTML = circle;
                             // square is just an svg code
     // Add to the DOM
+
     document.body.appendChild(newDiv);
     
 

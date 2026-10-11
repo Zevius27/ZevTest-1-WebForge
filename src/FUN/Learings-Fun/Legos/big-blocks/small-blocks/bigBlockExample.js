@@ -1,7 +1,7 @@
 
 
 // Create , Add attributes , Append Div.
-export function practice() {
+export function small_block_practice() {
      // Create the element
     const newDiv = document.createElement('div');
 
