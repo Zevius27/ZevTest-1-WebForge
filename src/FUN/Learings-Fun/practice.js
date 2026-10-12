@@ -9,7 +9,7 @@ export function practice() {
      // Create the element
     const newDiv = document.createElement('div');
     console.log(Bridge);
-    
+   
     // Add content and attributes
     newDiv.innerHTML = square;
                             // square is just an svg code
@@ -27,6 +27,26 @@ export function practice() {
 }
 
 
+
+
+
+
+
+
+
+
+ //////////////////////////////////////////////////////////////////////////
+    // Date : 2026-10-12
+    // Time : 6:20 AM 
+    // Battery: 90% 
+    // sleep: 6hrs
+            // document.writeln(Bridge)
+            // Javascript Limits :
+            //                 Can't write websites asynchronously.
+            //                  Html is synchronous.
+            // Work Arounds : 
+            //                  Are Unknown.
+///////////////////////////////////////////////////////////////////
 
 // //////////////////////////////////////////////////////////////
 // Limits : 
